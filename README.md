@@ -12,9 +12,11 @@ tags:
 inference: false
 ---
 
-# Dreamlike Photoreal 2.0 is a photorealistic model based on Stable Diffusion 1.5, made by [dreamlike.art](https://dreamlike.art/).
+# Dreamlike Photoreal 2.0 is a photorealistic model based on Stable Diffusion 1.5, made by [dreamlike.art](https://dreamlike.art/).  
+  
+# If you want to use dreamlike models on your website/app/etc., check the license at the bottom first!  
 
-**Warning: This model is horny! Add "nude, naked" to the negative prompt if want to avoid NSFW.**  
+Warning: This model is horny! Add "nude, naked" to the negative prompt if want to avoid NSFW.  
   
 You can add **photo** to your prompt to make your gens look more photorealistic.   
 Non-square aspect ratios work better for some prompts. If you want a portrait photo, try using a vertical aspect ratio. If you want a landscape photo, try using a horizontal aspect ratio.  
